@@ -1,4 +1,4 @@
-# Spring-Boot-application-for-Mobile-contacts-maintenance
+# Spring-Boot-web-application-for-Mobile-contacts-maintenance
 3.	Tools Used:
 
 	The technical detail of the project is as follows. This is spring boot Maven web application, In this Application, I am using  Java for the Backend code. HTML for front-end. And java script for the communication. Here I am using Microsoft SQL for database Storage. 
